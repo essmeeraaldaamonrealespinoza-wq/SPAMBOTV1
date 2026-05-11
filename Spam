@@ -1,0 +1,8 @@
+python-telegram-bot
+pyrogram
+tgcrypto
+requests
+aiohttp
+flask
+gtts
+yt-dlp
